@@ -1,1 +1,1 @@
-# jithub.io-buttons
+# github.io-buttons
